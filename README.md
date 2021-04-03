@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Project Overview
-This analysis looks into the data from a Ride-Sharing company. The data is then cleaned, organized and visualized to better understand and make informed descisions for the company going forward. The PyBer Challenge analysis shows the total weekly fares for each city type (Urban, Suburban, Rural) for the first quarter(Q1) of the year.
+This analysis looks into the data from a Ride-Sharing company. The data is then cleaned, organized and visualized to better understand and make informed descisions for the company going forward. The PyBer Challenge analysis shows the total weekly fares for each city type (Urban, Suburban, Rural) for the first quarter(Q1) of the year(2019).
 
 
 
@@ -20,4 +20,4 @@ The data shows roughly 80% of the total drivers operate on Urban Cities and they
 Based on the results these are some recommendations for the future:
 - Adding more drivers to Rural and suburban cities could see increase in revenue for the following quarters. As the data shows Rural and Suburban cities bring in roughly 40% of the total revenue while only having ~20% of the total drivers. 
  
-- While increasing the drivers in Rural and Suburban areas a timed discount of 5% to 15% per ride could incentivize new and existing customers to use the service more and help the new drivers by creating more demand. 
+- While increasing the drivers in Rural and Suburban areas a timed discount of 5% to 15% per ride could incentivize new and existing customers to use the service more and help the transition of new drivers by creating more demand. 
