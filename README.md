@@ -21,3 +21,5 @@ Based on the results these are some recommendations for the future:
 - Adding more drivers to Rural and suburban cities could see increase in revenue for the following quarters. As the data shows Rural and Suburban cities bring in roughly 40% of the total revenue while only having ~20% of the total drivers. 
  
 - While increasing the drivers in Rural and Suburban areas a timed discount of 5% to 15% per ride could incentivize new and existing customers to use the service more and help the transition of new drivers by creating more demand. 
+
+- For Urban cities increasing the driver count in general could help bring in more revenue as Urban cities have the most demand for rides. 
